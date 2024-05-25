@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on My New Hugo Site</title>
-    <link>http://localhost:61290/docs/</link>
+    <link>http://localhost:65282/docs/</link>
     <description>Recent content in Docs on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 May 2024 23:12:47 +0800</lastBuildDate>
-    <atom:link href="http://localhost:61290/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:65282/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Secure Password Reel</title>
-      <link>http://localhost:61290/docs/secure-password-reel-languages/secure-password-reel-en/</link>
+      <link>http://localhost:65282/docs/secure-password-reel-languages/secure-password-reel-en/</link>
       <pubDate>Mon, 20 May 2024 23:12:47 +0800</pubDate>
-      <guid>http://localhost:61290/docs/secure-password-reel-languages/secure-password-reel-en/</guid>
+      <guid>http://localhost:65282/docs/secure-password-reel-languages/secure-password-reel-en/</guid>
       <description>Privacy Policy # Welcome to [App Name] # We value your privacy and data protection. This privacy policy aims to transparently explain how we collect, use, and protect your personal information.&#xA;Information Collection and Use # Personal Information: When you use our app, we may ask you to provide personal information such as your email address, contact details, etc., in order to serve you better.&#xA;Technical Data: To enhance your user experience and improve the quality of our services, we automatically collect certain information, such as the type of device, operating system version, device identifiers, and usage data.</description>
     </item>
     <item>
       <title>بكرة كلمة المرور الآمنة</title>
-      <link>http://localhost:61290/docs/secure-password-reel-languages/secure-password-reel-ar/</link>
+      <link>http://localhost:65282/docs/secure-password-reel-languages/secure-password-reel-ar/</link>
       <pubDate>Mon, 20 May 2024 23:12:47 +0800</pubDate>
-      <guid>http://localhost:61290/docs/secure-password-reel-languages/secure-password-reel-ar/</guid>
+      <guid>http://localhost:65282/docs/secure-password-reel-languages/secure-password-reel-ar/</guid>
       <description>سياسة الخصوصية # مرحبًا بك في [اسم التطبيق] # نحن نقدر خصوصيتك وحماية بياناتك. تهدف سياسة الخصوصية هذه إلى شرح كيفية جمعنا واستخدامنا وحمايتنا لمعلوماتك الشخصية بشكل شفاف.&#xA;جمع المعلومات واستخدامها # المعلومات الشخصية: عند استخدامك لتطبيقنا، قد نطلب منك تقديم معلومات شخصية مثل عنوان بريدك الإلكتروني وتفاصيل الاتصال الخاصة بك، وذلك بهدف خدمتك بشكل أفضل.&#xA;البيانات التقنية: لتعزيز تجربتك في استخدام التطبيق وتحسين جودة خدماتنا، نقوم بجمع بعض المعلومات تلقائيًا، مثل نوع الجهاز وإصدار نظام التشغيل ومعرفات الجهاز وبيانات الاستخدام.</description>
     </item>
     <item>
       <title>安全密码卷轴</title>
-      <link>http://localhost:61290/docs/secure-password-reel-languages/secure-password-reel-zh/</link>
+      <link>http://localhost:65282/docs/secure-password-reel-languages/secure-password-reel-zh/</link>
       <pubDate>Mon, 20 May 2024 23:12:47 +0800</pubDate>
-      <guid>http://localhost:61290/docs/secure-password-reel-languages/secure-password-reel-zh/</guid>
+      <guid>http://localhost:65282/docs/secure-password-reel-languages/secure-password-reel-zh/</guid>
       <description>隐私政策 # 欢迎使用 [应用名称] # 我们重视您的隐私和数据保护。本隐私政策旨在透明地说明我们如何收集、使用和保护您的个人信息。&#xA;信息收集与使用 # 个人信息：在您使用我们的应用时，我们可能会要求您提供个人信息，如电子邮件地址、联系方式等，以便为您提供服务。&#xA;技术数据：为了改善您的使用体验和我们的服务质量，我们会自动收集某些信息，例如设备类型、操作系统版本、设备标识符、以及使用数据等。&#xA;用途：我们使用收集的信息来：&#xA;提供、运行和改进我们的服务 与您沟通，包括发送服务更新、安全警报及支持消息 遵守法律规定和我们的法律义务 数据共享 # 我们不会将您的个人信息出售给第三方。但在以下情况下，我们可能会与合作伙伴或第三方服务提供者共享信息：&#xA;法律要求：在法律要求、诉讼程序或公共和政府机构的要求下，我们可能会披露您的信息。 服务提供者：我们可能会与提供数据处理服务的第三方合作，这些第三方严格遵守我们的指令并遵循本隐私政策。 您的权利 # 您有权访问、更正或删除您的个人信息。如果您希望行使这些权利，或对本政策有任何疑问，请通过以下联系方式与我们联系： 邮箱：[xxx@gmail.com]&#xA;安全 # 我们采取适当的安全措施来保护您的个人信息不被未经授权访问或未经授权的修改、披露或销毁。&#xA;政策更新 # 我们可能会不时更新本隐私政策。我们鼓励您定期查看本政策以了解我们如何保护您的信息。&#xA;联系我们 # 如果您对本隐私政策有任何疑问或顾虑，请通过以下方式与我们联系： 邮箱：[xxx@gmail.com]&#xA;感谢您信任我们来处理您的信息。我们承诺将以最大的尊重和保密性处理您的个人信息。</description>
     </item>
   </channel>
