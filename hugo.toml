@@ -1,3 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ddumk.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+
+theme = "hugo-book"
+# Set type to 'docs' if you want to render page outside of configured section or if you render section other than 'docs'
+# type = 'docs'

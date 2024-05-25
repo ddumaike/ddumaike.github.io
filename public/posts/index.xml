@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on My New Hugo Site</title>
+    <link>http://localhost:61290/posts/</link>
+    <description>Recent content in Blog on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:61290/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a New Theme</title>
+      <link>http://localhost:61290/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61290/posts/creating-a-new-theme/</guid>
+      <description>Introduction # This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&#xA;We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>http://localhost:61290/posts/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61290/posts/migrate-from-jekyll/</guid>
+      <description>Move static content to static # Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like&#xA;▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become&#xA;▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    <item>
+      <title>Welcome to Tranquilpeak 0.4.7-BETA</title>
+      <link>http://localhost:61290/posts/welcome-to-the-new-tranquilpeak/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61290/posts/welcome-to-the-new-tranquilpeak/</guid>
+      <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Who&#39;s using Tranquilpeak Hugo Theme</title>
+      <link>http://localhost:61290/posts/who-is-using-tranquilpeak-hugo-theme/</link>
+      <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61290/posts/who-is-using-tranquilpeak-hugo-theme/</guid>
+      <description>&lt;p&gt;Here you can find a list of the blogs that use Tranquilpeak theme, with different styles and customizations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elements showcase</title>
+      <link>http://localhost:61290/posts/elements-showcase/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61290/posts/elements-showcase/</guid>
+      <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cover image showcase</title>
+      <link>http://localhost:61290/posts/cover-image-showcase/</link>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61290/posts/cover-image-showcase/</guid>
+      <description>&lt;p&gt;Tranquilpeak integrate a unique &amp;ldquo;cover image&amp;rdquo; feature. Open this post to see how this feature sublimate your article.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hidden social section showcase</title>
+      <link>http://localhost:61290/posts/hidden-social-section-showcase/</link>
+      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61290/posts/hidden-social-section-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the social section is hidden.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hidden tag section showcase</title>
+      <link>http://localhost:61290/posts/hidden-tag-section-showcase/</link>
+      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61290/posts/hidden-tag-section-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the tag section is hidden.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hidden pagination showcase</title>
+      <link>http://localhost:61290/posts/hidden-pagination-showcase/</link>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61290/posts/hidden-pagination-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the pagination is hidden.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Video integrations showcase</title>
+      <link>http://localhost:61290/posts/video-integrations-showcase/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61290/posts/video-integrations-showcase/</guid>
+      <description>&lt;p&gt;Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>http://localhost:61290/posts/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61290/posts/goisforlovers/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.&#xA;This document is a brief primer on using Go templates.</description>
+    </item>
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>http://localhost:61290/posts/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61290/posts/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo # Go to Hugo releases and download the appropriate version for your OS and architecture.&#xA;Save it somewhere specific as we will be using it in the next step.&#xA;More complete instructions are available at Install Hugo&#xA;Step 2. Build the Docs # Hugo has its own example site which happens to also be the documentation site you are reading right now.&#xA;Follow the following steps:</description>
+    </item>
+    <item>
+      <title>中文測試</title>
+      <link>http://localhost:61290/posts/chinese-test/</link>
+      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61290/posts/chinese-test/</guid>
+      <description>&lt;p&gt;This is a chinese test post to show you how chinese is displayed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Image gallery showcase</title>
+      <link>http://localhost:61290/posts/image-gallery-showcase/</link>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61290/posts/image-gallery-showcase/</guid>
+      <description>&lt;p&gt;And here is the image gallery!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>日本語テスト</title>
+      <link>http://localhost:61290/posts/japanese-test/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61290/posts/japanese-test/</guid>
+      <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
