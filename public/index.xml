@@ -2,137 +2,263 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:65282/</link>
+    <link>http://localhost:56326/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 May 2024 23:12:47 +0800</lastBuildDate>
-    <atom:link href="http://localhost:65282/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56326/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>With ToC</title>
+      <link>http://localhost:56326/docs/content.en/docs/example/table-of-contents/with-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/docs/content.en/docs/example/table-of-contents/with-toc/</guid>
+      <description>Caput vino delphine in tamen vias # Cognita laeva illo fracta # Lorem markdownum pavent auras, surgit nunc cingentibus libet Laomedonque que est. Pastor An arbor filia foedat, ne fugit aliter, per. Helicona illas et callida neptem est Oresitrophos caput, dentibus est venit. Tenet reddite famuli praesentem fortibus, quaeque vis foret si frondes gelidos gravidae circumtulit inpulit armenta nativum.&#xA;Te at cruciabere vides rubentis manebo Maturuit in praetemptat ruborem ignara postquam habitasse Subitarum supplevit quoque fontesque venabula spretis modo Montis tot est mali quasque gravis Quinquennem domus arsit ipse Pellem turis pugnabant locavit Natus quaerere # Pectora et sine mulcere, coniuge dum tincta incurvae.</description>
+    </item>
+    <item>
+      <title>Without ToC</title>
+      <link>http://localhost:56326/docs/content.en/docs/example/table-of-contents/without-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/docs/content.en/docs/example/table-of-contents/without-toc/</guid>
+      <description>At me ipso nepotibus nunc celebratior genus # Tanto oblite # Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat admonitu concidit, ad resimas vultus et rugas vultu dignamque Siphnon.&#xA;Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt dixit: ritu pharetramque.</description>
+    </item>
     <item>
       <title>Creating a New Theme</title>
-      <link>http://localhost:65282/posts/creating-a-new-theme/</link>
+      <link>http://localhost:56326/docs/content.en/posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65282/posts/creating-a-new-theme/</guid>
+      <guid>http://localhost:56326/docs/content.en/posts/creating-a-new-theme/</guid>
+      <description>Introduction # This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&#xA;We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    <item>
+      <title>Creating a New Theme</title>
+      <link>http://localhost:56326/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/posts/creating-a-new-theme/</guid>
       <description>Introduction # This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&#xA;We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>http://localhost:65282/posts/migrate-from-jekyll/</link>
+      <link>http://localhost:56326/docs/content.en/posts/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65282/posts/migrate-from-jekyll/</guid>
+      <guid>http://localhost:56326/docs/content.en/posts/migrate-from-jekyll/</guid>
+      <description>Move static content to static # Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like&#xA;▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become&#xA;▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>http://localhost:56326/posts/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/posts/migrate-from-jekyll/</guid>
       <description>Move static content to static # Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like&#xA;▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become&#xA;▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     <item>
       <title>Secure Password Reel</title>
-      <link>http://localhost:65282/docs/secure-password-reel-languages/secure-password-reel-en/</link>
+      <link>http://localhost:56326/docs/secure-password-reel-languages/secure-password-reel-en/</link>
       <pubDate>Mon, 20 May 2024 23:12:47 +0800</pubDate>
-      <guid>http://localhost:65282/docs/secure-password-reel-languages/secure-password-reel-en/</guid>
+      <guid>http://localhost:56326/docs/secure-password-reel-languages/secure-password-reel-en/</guid>
       <description>Privacy Policy # Welcome to [App Name] # We value your privacy and data protection. This privacy policy aims to transparently explain how we collect, use, and protect your personal information.&#xA;Information Collection and Use # Personal Information: When you use our app, we may ask you to provide personal information such as your email address, contact details, etc., in order to serve you better.&#xA;Technical Data: To enhance your user experience and improve the quality of our services, we automatically collect certain information, such as the type of device, operating system version, device identifiers, and usage data.</description>
     </item>
     <item>
       <title>بكرة كلمة المرور الآمنة</title>
-      <link>http://localhost:65282/docs/secure-password-reel-languages/secure-password-reel-ar/</link>
+      <link>http://localhost:56326/docs/secure-password-reel-languages/secure-password-reel-ar/</link>
       <pubDate>Mon, 20 May 2024 23:12:47 +0800</pubDate>
-      <guid>http://localhost:65282/docs/secure-password-reel-languages/secure-password-reel-ar/</guid>
+      <guid>http://localhost:56326/docs/secure-password-reel-languages/secure-password-reel-ar/</guid>
       <description>سياسة الخصوصية # مرحبًا بك في [اسم التطبيق] # نحن نقدر خصوصيتك وحماية بياناتك. تهدف سياسة الخصوصية هذه إلى شرح كيفية جمعنا واستخدامنا وحمايتنا لمعلوماتك الشخصية بشكل شفاف.&#xA;جمع المعلومات واستخدامها # المعلومات الشخصية: عند استخدامك لتطبيقنا، قد نطلب منك تقديم معلومات شخصية مثل عنوان بريدك الإلكتروني وتفاصيل الاتصال الخاصة بك، وذلك بهدف خدمتك بشكل أفضل.&#xA;البيانات التقنية: لتعزيز تجربتك في استخدام التطبيق وتحسين جودة خدماتنا، نقوم بجمع بعض المعلومات تلقائيًا، مثل نوع الجهاز وإصدار نظام التشغيل ومعرفات الجهاز وبيانات الاستخدام.</description>
     </item>
     <item>
       <title>安全密码卷轴</title>
-      <link>http://localhost:65282/docs/secure-password-reel-languages/secure-password-reel-zh/</link>
+      <link>http://localhost:56326/docs/secure-password-reel-languages/secure-password-reel-zh/</link>
       <pubDate>Mon, 20 May 2024 23:12:47 +0800</pubDate>
-      <guid>http://localhost:65282/docs/secure-password-reel-languages/secure-password-reel-zh/</guid>
+      <guid>http://localhost:56326/docs/secure-password-reel-languages/secure-password-reel-zh/</guid>
       <description>隐私政策 # 欢迎使用 [应用名称] # 我们重视您的隐私和数据保护。本隐私政策旨在透明地说明我们如何收集、使用和保护您的个人信息。&#xA;信息收集与使用 # 个人信息：在您使用我们的应用时，我们可能会要求您提供个人信息，如电子邮件地址、联系方式等，以便为您提供服务。&#xA;技术数据：为了改善您的使用体验和我们的服务质量，我们会自动收集某些信息，例如设备类型、操作系统版本、设备标识符、以及使用数据等。&#xA;用途：我们使用收集的信息来：&#xA;提供、运行和改进我们的服务 与您沟通，包括发送服务更新、安全警报及支持消息 遵守法律规定和我们的法律义务 数据共享 # 我们不会将您的个人信息出售给第三方。但在以下情况下，我们可能会与合作伙伴或第三方服务提供者共享信息：&#xA;法律要求：在法律要求、诉讼程序或公共和政府机构的要求下，我们可能会披露您的信息。 服务提供者：我们可能会与提供数据处理服务的第三方合作，这些第三方严格遵守我们的指令并遵循本隐私政策。 您的权利 # 您有权访问、更正或删除您的个人信息。如果您希望行使这些权利，或对本政策有任何疑问，请通过以下联系方式与我们联系： 邮箱：[xxx@gmail.com]&#xA;安全 # 我们采取适当的安全措施来保护您的个人信息不被未经授权访问或未经授权的修改、披露或销毁。&#xA;政策更新 # 我们可能会不时更新本隐私政策。我们鼓励您定期查看本政策以了解我们如何保护您的信息。&#xA;联系我们 # 如果您对本隐私政策有任何疑问或顾虑，请通过以下方式与我们联系： 邮箱：[xxx@gmail.com]&#xA;感谢您信任我们来处理您的信息。我们承诺将以最大的尊重和保密性处理您的个人信息。</description>
     </item>
     <item>
       <title>Welcome to Tranquilpeak 0.4.7-BETA</title>
-      <link>http://localhost:65282/posts/welcome-to-the-new-tranquilpeak/</link>
+      <link>http://localhost:56326/posts/welcome-to-the-new-tranquilpeak/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65282/posts/welcome-to-the-new-tranquilpeak/</guid>
+      <guid>http://localhost:56326/posts/welcome-to-the-new-tranquilpeak/</guid>
       <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Who&#39;s using Tranquilpeak Hugo Theme</title>
-      <link>http://localhost:65282/posts/who-is-using-tranquilpeak-hugo-theme/</link>
+      <link>http://localhost:56326/posts/who-is-using-tranquilpeak-hugo-theme/</link>
       <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65282/posts/who-is-using-tranquilpeak-hugo-theme/</guid>
+      <guid>http://localhost:56326/posts/who-is-using-tranquilpeak-hugo-theme/</guid>
       <description>&lt;p&gt;Here you can find a list of the blogs that use Tranquilpeak theme, with different styles and customizations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Elements showcase</title>
-      <link>http://localhost:65282/posts/elements-showcase/</link>
+      <link>http://localhost:56326/posts/elements-showcase/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65282/posts/elements-showcase/</guid>
+      <guid>http://localhost:56326/posts/elements-showcase/</guid>
       <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cover image showcase</title>
-      <link>http://localhost:65282/posts/cover-image-showcase/</link>
+      <link>http://localhost:56326/posts/cover-image-showcase/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65282/posts/cover-image-showcase/</guid>
+      <guid>http://localhost:56326/posts/cover-image-showcase/</guid>
       <description>&lt;p&gt;Tranquilpeak integrate a unique &amp;ldquo;cover image&amp;rdquo; feature. Open this post to see how this feature sublimate your article.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hidden social section showcase</title>
-      <link>http://localhost:65282/posts/hidden-social-section-showcase/</link>
+      <link>http://localhost:56326/posts/hidden-social-section-showcase/</link>
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65282/posts/hidden-social-section-showcase/</guid>
+      <guid>http://localhost:56326/posts/hidden-social-section-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the social section is hidden.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hidden tag section showcase</title>
-      <link>http://localhost:65282/posts/hidden-tag-section-showcase/</link>
+      <link>http://localhost:56326/posts/hidden-tag-section-showcase/</link>
       <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65282/posts/hidden-tag-section-showcase/</guid>
+      <guid>http://localhost:56326/posts/hidden-tag-section-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the tag section is hidden.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hidden pagination showcase</title>
-      <link>http://localhost:65282/posts/hidden-pagination-showcase/</link>
+      <link>http://localhost:56326/posts/hidden-pagination-showcase/</link>
       <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65282/posts/hidden-pagination-showcase/</guid>
+      <guid>http://localhost:56326/posts/hidden-pagination-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the pagination is hidden.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Video integrations showcase</title>
-      <link>http://localhost:65282/posts/video-integrations-showcase/</link>
+      <link>http://localhost:56326/posts/video-integrations-showcase/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65282/posts/video-integrations-showcase/</guid>
+      <guid>http://localhost:56326/posts/video-integrations-showcase/</guid>
       <description>&lt;p&gt;Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.&lt;/p&gt;</description>
     </item>
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>http://localhost:65282/posts/goisforlovers/</link>
+      <link>http://localhost:56326/docs/content.en/posts/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65282/posts/goisforlovers/</guid>
+      <guid>http://localhost:56326/docs/content.en/posts/goisforlovers/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.&#xA;This document is a brief primer on using Go templates.</description>
+    </item>
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>http://localhost:56326/posts/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/posts/goisforlovers/</guid>
       <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.&#xA;This document is a brief primer on using Go templates.</description>
     </item>
     <item>
       <title>Getting Started with Hugo</title>
-      <link>http://localhost:65282/posts/hugoisforlovers/</link>
+      <link>http://localhost:56326/docs/content.en/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65282/posts/hugoisforlovers/</guid>
+      <guid>http://localhost:56326/docs/content.en/posts/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo # Go to Hugo releases and download the appropriate version for your OS and architecture.&#xA;Save it somewhere specific as we will be using it in the next step.&#xA;More complete instructions are available at Install Hugo&#xA;Step 2. Build the Docs # Hugo has its own example site which happens to also be the documentation site you are reading right now.&#xA;Follow the following steps:</description>
+    </item>
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>http://localhost:56326/posts/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/posts/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo # Go to Hugo releases and download the appropriate version for your OS and architecture.&#xA;Save it somewhere specific as we will be using it in the next step.&#xA;More complete instructions are available at Install Hugo&#xA;Step 2. Build the Docs # Hugo has its own example site which happens to also be the documentation site you are reading right now.&#xA;Follow the following steps:</description>
     </item>
     <item>
       <title>中文測試</title>
-      <link>http://localhost:65282/posts/chinese-test/</link>
+      <link>http://localhost:56326/posts/chinese-test/</link>
       <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65282/posts/chinese-test/</guid>
+      <guid>http://localhost:56326/posts/chinese-test/</guid>
       <description>&lt;p&gt;This is a chinese test post to show you how chinese is displayed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Image gallery showcase</title>
-      <link>http://localhost:65282/posts/image-gallery-showcase/</link>
+      <link>http://localhost:56326/posts/image-gallery-showcase/</link>
       <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65282/posts/image-gallery-showcase/</guid>
+      <guid>http://localhost:56326/posts/image-gallery-showcase/</guid>
       <description>&lt;p&gt;And here is the image gallery!&lt;/p&gt;</description>
     </item>
     <item>
       <title>日本語テスト</title>
-      <link>http://localhost:65282/posts/japanese-test/</link>
+      <link>http://localhost:56326/posts/japanese-test/</link>
       <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65282/posts/japanese-test/</guid>
+      <guid>http://localhost:56326/posts/japanese-test/</guid>
       <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:56326/docs/content.en/docs/example/collapsed/3rd-level/4th-level/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/docs/content.en/docs/example/collapsed/3rd-level/4th-level/</guid>
+      <description>4th Level of Menu # Caesorum illa tu sentit micat vestes papyriferi # Inde aderam facti; Theseus vis de tauri illa peream. Oculos uberaque non regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo; gestanda nitidi, vero? Dum ne pectoraque testantur.&#xA;Venasque repulsa Samos qui, exspectatum eram animosque hinc, aut manes, Assyrii. Cupiens auctoribus pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae iusto!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:56326/docs/content.en/docs/example/hidden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/docs/content.en/docs/example/hidden/</guid>
+      <description>This page is hidden in menu # Quondam non pater est dignior ille Eurotas # Latent te facies # Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.&#xA;Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor Cum honorum Latona # O fallor in sustinui iussorum equidem.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:56326/docs/content.en/docs/shortcodes/buttons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/docs/content.en/docs/shortcodes/buttons/</guid>
+      <description> Buttons # Buttons are styled links that can lead to local page or external link.&#xA;Example # {{&amp;lt; button relref=&amp;#34;/&amp;#34; [class=&amp;#34;...&amp;#34;] &amp;gt;}}Get Home{{&amp;lt; /button &amp;gt;}} {{&amp;lt; button href=&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34; &amp;gt;}}Contribute{{&amp;lt; /button &amp;gt;}} Get Home Contribute </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:56326/docs/content.en/docs/shortcodes/columns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/docs/content.en/docs/shortcodes/columns/</guid>
+      <description>Columns # Columns help organize shorter pieces of content horizontally for readability.&#xA;{{&amp;lt; columns &amp;gt;}} &amp;lt;!-- begin columns block --&amp;gt; # Left Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Mid Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Right Content Lorem markdownum insigne... {{&amp;lt; /columns &amp;gt;}} Example # Left Content # Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:56326/docs/content.en/docs/shortcodes/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/docs/content.en/docs/shortcodes/details/</guid>
+      <description>Details # Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.&#xA;Example # {{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} Title Markdown content # Lorem markdownum insigne&amp;hellip;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:56326/docs/content.en/docs/shortcodes/expand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/docs/content.en/docs/shortcodes/expand/</guid>
+      <description>Expand # Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.&#xA;Example # Default # {{&amp;lt; expand &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Expand ↕ Markdown content # Lorem markdownum insigne&amp;hellip;&#xA;With Custom Label # {{&amp;lt; expand &amp;#34;Custom Label&amp;#34; &amp;#34;...&amp;#34; &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Custom Label ... Markdown content # Lorem markdownum insigne.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:56326/docs/content.en/docs/shortcodes/hints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/docs/content.en/docs/shortcodes/hints/</guid>
+      <description>Hints # Hint shortcode can be used as hint/alerts/notification block.&#xA;There are 3 colors to choose: info, warning and danger.&#xA;{{&amp;lt; hint [info|warning|danger] &amp;gt;}} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa {{&amp;lt; /hint &amp;gt;}} Example # Markdown content&#xA;Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Markdown content</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:56326/docs/content.en/docs/shortcodes/mermaid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/docs/content.en/docs/shortcodes/mermaid/</guid>
+      <description>Mermaid Chart # MermaidJS is library for generating svg charts and diagrams from text.&#xA;Override Mermaid Initialization Config&#xA;To override the initialization config for Mermaid, create a mermaid.json file in your assets folder!&#xA;Example # {{&amp;lt; mermaid class=&amp;#34;optional&amp;#34; &amp;gt;}} stateDiagram-v2 State1: The state with a note note right of State1 Important information! You can write notes. end note State1 --&amp;gt; State2 note left of State2 : This is the note to the left.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:56326/docs/content.en/docs/shortcodes/section/first-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/docs/content.en/docs/shortcodes/section/first-page/</guid>
+      <description>First page # Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:56326/docs/content.en/docs/shortcodes/section/second-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/docs/content.en/docs/shortcodes/section/second-page/</guid>
+      <description>Second Page # Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:56326/docs/content.en/docs/shortcodes/tabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/docs/content.en/docs/shortcodes/tabs/</guid>
+      <description>Tabs # Tabs let you organize content by context, for example installation instructions for each supported platform.&#xA;{{&amp;lt; tabs &amp;#34;uniqueid&amp;#34; &amp;gt;}} {{&amp;lt; tab &amp;#34;MacOS&amp;#34; &amp;gt;}} # MacOS Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Linux&amp;#34; &amp;gt;}} # Linux Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Windows&amp;#34; &amp;gt;}} # Windows Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabs &amp;gt;}} Example # MacOS MacOS # This is tab MacOS content.&#xA;Lorem markdownum insigne. Olympo signis Delphis!</description>
+    </item>
+    <item>
+      <title>KaTeX</title>
+      <link>http://localhost:56326/docs/content.en/docs/shortcodes/katex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56326/docs/content.en/docs/shortcodes/katex/</guid>
+      <description>KaTeX # KaTeX shortcode let you render math typesetting in markdown document. See KaTeX&#xA;Example # {{&amp;lt; katex display=true class=&amp;#34;optional&amp;#34; &amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt; /katex &amp;gt;}} \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Display Mode Example # Here is some inline example: \(\pi(x)\) , rendered in the same line. And below is display example, having display: block \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Text continues here.</description>
     </item>
   </channel>
 </rss>

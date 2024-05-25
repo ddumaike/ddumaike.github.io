@@ -2,163 +2,230 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:65282/posts/creating-a-new-theme/</loc>
+    <loc>http://localhost:56326/docs/content.en/docs/example/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/example/table-of-contents/with-toc/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/example/table-of-contents/without-toc/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/posts/migrate-from-jekyll/</loc>
+    <loc>http://localhost:56326/posts/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/docs/</loc>
+    <loc>http://localhost:56326/posts/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/example/table-of-contents/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/secure-password-reel-languages/</loc>
     <lastmod>2024-05-20T23:12:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/</loc>
+    <loc>http://localhost:56326/docs/content.en/docs/example/collapsed/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/</loc>
     <lastmod>2024-05-20T23:12:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/docs/secure-password-reel-languages/secure-password-reel-en/</loc>
+    <loc>http://localhost:56326/</loc>
     <lastmod>2024-05-20T23:12:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/docs/secure-password-reel-languages/secure-password-reel-ar/</loc>
+    <loc>http://localhost:56326/docs/secure-password-reel-languages/secure-password-reel-en/</loc>
     <lastmod>2024-05-20T23:12:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/docs/secure-password-reel-languages/secure-password-reel-zh/</loc>
+    <loc>http://localhost:56326/docs/secure-password-reel-languages/secure-password-reel-ar/</loc>
     <lastmod>2024-05-20T23:12:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/posts/</loc>
+    <loc>http://localhost:56326/docs/secure-password-reel-languages/secure-password-reel-zh/</loc>
+    <lastmod>2024-05-20T23:12:47+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56326/posts/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/categories/</loc>
+    <loc>http://localhost:56326/categories/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/disqus/</loc>
+    <loc>http://localhost:56326/tags/disqus/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/google-analytics/</loc>
+    <loc>http://localhost:56326/tags/google-analytics/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/gravatar/</loc>
+    <loc>http://localhost:56326/tags/gravatar/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/hexo-theme/</loc>
+    <loc>http://localhost:56326/tags/hexo-theme/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/categories/releases/</loc>
+    <loc>http://localhost:56326/categories/releases/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/responsive/</loc>
+    <loc>http://localhost:56326/tags/responsive/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/</loc>
+    <loc>http://localhost:56326/tags/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/categories/tranquilpeak/</loc>
+    <loc>http://localhost:56326/categories/tranquilpeak/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/posts/welcome-to-the-new-tranquilpeak/</loc>
+    <loc>http://localhost:56326/posts/welcome-to-the-new-tranquilpeak/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/categories/showcase/</loc>
+    <loc>http://localhost:56326/categories/showcase/</loc>
     <lastmod>2015-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/posts/who-is-using-tranquilpeak-hugo-theme/</loc>
+    <loc>http://localhost:56326/posts/who-is-using-tranquilpeak-hugo-theme/</loc>
     <lastmod>2015-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/posts/elements-showcase/</loc>
+    <loc>http://localhost:56326/posts/elements-showcase/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/categories/features/</loc>
+    <loc>http://localhost:56326/categories/features/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/html-elements/</loc>
+    <loc>http://localhost:56326/tags/html-elements/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/markdown/</loc>
+    <loc>http://localhost:56326/tags/markdown/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/cover-image/</loc>
+    <loc>http://localhost:56326/tags/cover-image/</loc>
     <lastmod>2015-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/posts/cover-image-showcase/</loc>
+    <loc>http://localhost:56326/posts/cover-image-showcase/</loc>
     <lastmod>2015-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/posts/hidden-social-section-showcase/</loc>
+    <loc>http://localhost:56326/docs/content.en/posts/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56326/posts/hidden-social-section-showcase/</loc>
     <lastmod>2014-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/social/</loc>
+    <loc>http://localhost:56326/tags/social/</loc>
     <lastmod>2014-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/posts/hidden-tag-section-showcase/</loc>
+    <loc>http://localhost:56326/posts/hidden-tag-section-showcase/</loc>
     <lastmod>2014-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/tags/</loc>
+    <loc>http://localhost:56326/tags/tags/</loc>
     <lastmod>2014-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/posts/hidden-pagination-showcase/</loc>
+    <loc>http://localhost:56326/posts/hidden-pagination-showcase/</loc>
     <lastmod>2014-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/pagination/</loc>
+    <loc>http://localhost:56326/tags/pagination/</loc>
     <lastmod>2014-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/dailymotion/</loc>
+    <loc>http://localhost:56326/tags/dailymotion/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/posts/video-integrations-showcase/</loc>
+    <loc>http://localhost:56326/posts/video-integrations-showcase/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/videos-integration/</loc>
+    <loc>http://localhost:56326/tags/videos-integration/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/vimeo/</loc>
+    <loc>http://localhost:56326/tags/vimeo/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/youtube/</loc>
+    <loc>http://localhost:56326/tags/youtube/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/posts/goisforlovers/</loc>
+    <loc>http://localhost:56326/docs/content.en/posts/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/development/</loc>
+    <loc>http://localhost:56326/posts/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/categories/development/</loc>
+    <loc>http://localhost:56326/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/posts/hugoisforlovers/</loc>
+    <loc>http://localhost:56326/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/go/</loc>
+    <loc>http://localhost:56326/docs/content.en/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/golang/</loc>
+    <loc>http://localhost:56326/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/categories/golang/</loc>
+    <loc>http://localhost:56326/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/hugo/</loc>
+    <loc>http://localhost:56326/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/templates/</loc>
+    <loc>http://localhost:56326/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/themes/</loc>
+    <loc>http://localhost:56326/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/chinese/</loc>
+    <loc>http://localhost:56326/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56326/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56326/tags/chinese/</loc>
     <lastmod>2013-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/posts/chinese-test/</loc>
+    <loc>http://localhost:56326/posts/chinese-test/</loc>
     <lastmod>2013-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/image-gallery/</loc>
+    <loc>http://localhost:56326/tags/image-gallery/</loc>
     <lastmod>2013-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/posts/image-gallery-showcase/</loc>
+    <loc>http://localhost:56326/posts/image-gallery-showcase/</loc>
     <lastmod>2013-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/tags/japanese/</loc>
+    <loc>http://localhost:56326/tags/japanese/</loc>
     <lastmod>2013-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65282/posts/japanese-test/</loc>
+    <loc>http://localhost:56326/posts/japanese-test/</loc>
     <lastmod>2013-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/example/collapsed/3rd-level/4th-level/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/example/collapsed/3rd-level/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/example/hidden/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/shortcodes/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/shortcodes/buttons/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/shortcodes/columns/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/shortcodes/details/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/shortcodes/expand/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/shortcodes/hints/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/shortcodes/mermaid/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/shortcodes/section/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/shortcodes/section/first-page/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/shortcodes/section/second-page/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/shortcodes/tabs/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.en/docs/shortcodes/katex/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.ru/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.bn/</loc>
+  </url><url>
+    <loc>http://localhost:56326/docs/content.zh/</loc>
   </url>
 </urlset>
